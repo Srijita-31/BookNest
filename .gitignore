@@ -1,0 +1,20 @@
+# Maven
+target/
+.mvn/wrapper/
+
+# IDE files
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+temp/
+
+# Exclude sensitive configuration files
+src/main/resources/application.properties
