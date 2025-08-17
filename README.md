@@ -1,6 +1,6 @@
-# 🔖BookNest Backend
+# 🔖BookNest
 
-A RESTful API for a book management application. The goal of this project is to provide a backend for users to register, log in, and manage their personal book collections.
+A RESTful API for a personalized digital library application. The goal of this project is to provide a backend for users to register, log in, and manage their personal book collections.
 
 ## Features
 
