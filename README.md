@@ -59,7 +59,7 @@ Follow these instructions to get a local copy of the project up and running.
 * Maven
 
 * A relational database (e.g., PostgreSQL, MySQL)
-* 
+
 ## Future Enhancements
 
 * JWT-based user authentication and login functionality.
@@ -69,3 +69,6 @@ Follow these instructions to get a local copy of the project up and running.
 * Ability to create, edit, and delete private and public book lists.
 
 * Search functionality for books.
+
+## License
+This project is licensed under the MIT License.
